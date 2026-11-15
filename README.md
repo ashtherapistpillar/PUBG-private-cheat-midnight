@@ -33,11 +33,6 @@
 
 ---
 
-## 🌌 About Midnight
-
-**PUBG Midnight** is a private project designed around customization, visual information and a modern user experience.
-
-The project combines multiple configurable tools in one convenient interface, with a dark purple aesthetic and an organized settings menu.
 
 ## ✨ Main Features
 
